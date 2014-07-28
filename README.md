@@ -1,2 +1,1 @@
-Dynamixel_12A_Atmega16
-======================
+This a basic driver for Dynamixel 12A servos. A different function has been made for using each of the functionalities of this servo as processing needed to be minimised. This driver is meant for running on an Atmega 16 microcontroller.
